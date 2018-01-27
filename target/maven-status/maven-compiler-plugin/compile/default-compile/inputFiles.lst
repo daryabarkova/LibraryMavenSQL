@@ -1,0 +1,13 @@
+D:\students\dbarkova\htp-library\src\main\java\library\dao\BookDao.java
+D:\students\dbarkova\htp-library\src\main\java\library\dao\file\simple\SimpleBookDaoImpl.java
+D:\students\dbarkova\htp-library\src\main\java\library\bean\Entity.java
+D:\students\dbarkova\htp-library\src\main\java\library\controller\SimpleServletController.java
+D:\students\dbarkova\htp-library\src\main\java\library\action\util\ActionManager.java
+D:\students\dbarkova\htp-library\src\main\java\library\bean\User.java
+D:\students\dbarkova\htp-library\src\main\java\library\bean\Author.java
+D:\students\dbarkova\htp-library\src\main\java\library\dao\db\BookDaoMySQLImpl.java
+D:\students\dbarkova\htp-library\src\main\java\library\action\BaseAction.java
+D:\students\dbarkova\htp-library\src\main\java\library\dao\BaseAction.java
+D:\students\dbarkova\htp-library\src\main\java\library\bean\Book.java
+D:\students\dbarkova\htp-library\src\main\java\library\controller\ConsoleMainController.java
+D:\students\dbarkova\htp-library\src\main\java\library\action\console\BookListConsoleImpl.java

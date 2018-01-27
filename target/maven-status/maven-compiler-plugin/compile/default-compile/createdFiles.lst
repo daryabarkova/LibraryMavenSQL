@@ -1,0 +1,13 @@
+library\dao\BaseAction.class
+library\bean\Author.class
+library\controller\ConsoleMainController.class
+library\dao\file\simple\SimpleBookDaoImpl.class
+library\controller\SimpleServletController.class
+library\dao\BookDao.class
+library\bean\User.class
+library\action\console\BookListConsoleImpl.class
+library\bean\Book.class
+library\dao\db\BookDaoMySQLImpl.class
+library\bean\Entity.class
+library\action\BaseAction.class
+library\action\util\ActionManager.class
